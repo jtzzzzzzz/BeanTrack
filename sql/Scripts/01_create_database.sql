@@ -1,0 +1,3 @@
+CREATE DATABASE beantrack;
+USE beantrack;
+SELECT DATABASE();

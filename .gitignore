@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# DBeaver / Eclipse local configuration
+sql/.dbeaver/
+sql/.project
+sql/.settings/
